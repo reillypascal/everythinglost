@@ -1,0 +1,10 @@
+2, 37 sample2 0 0 1 0;
+3, 38 sample3 0 0 1 0;
+4, 39 sample4 0 0 1 0;
+5, 40 sample5 0 0 0 0;
+6, 41 sample6 0 0 0 0;
+7, 42 sample7 0 0 0 0;
+8, 43 sample8 0 0 0 1;
+9, 44 sample9 0 0 0 0;
+10, 45 sample10 0 0 0 1;
+11, 46 sample11 0 0 0 1;
