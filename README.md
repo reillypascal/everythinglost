@@ -1,7 +1,7 @@
 # everythinglost
 Max/MSP performance patch for "Everything lost along the way"
 
-Download the "Everything lost along the way" folder and run the enclosed patch. Leave all files in the folder.
+Download the repository, move the "Everything lost along the way" folder to where you want to run the patch, and run the enclosed Max patch. Leave all files in the folder.
 
 Requirements:
 - HISSTools Impulse Response Toolkit package (File → Show Package Manager in Max)
